@@ -31,4 +31,4 @@ This Tableau project visualizes and analyzes sales, profit, and customer behavio
 ## Dashboard Previews
 | Sales Dashboard | Customer Dashboard |
 |-----------------|--------------------|
-| ![Sales](screenshots/sales_dashboard.png) | ![Customer](screenshots/customer_dashboard.png) |
+| ![Sales]([screenshots/sales_dashboard.png](https://github.com/kavishsarse/Sales-Customer-Dashboard-Tableau/blob/main/Sales%20Dashboard.png)) | ![Customer](screenshots/customer_dashboard.png) |
