@@ -29,6 +29,6 @@ This Tableau project visualizes and analyzes sales, profit, and customer behavio
 - Monthly sales trends helped identify slow periods for **inventory optimization**
 
 ## Dashboard Previews
-| Sales Dashboard | Customer Dashboard |
-|-----------------|--------------------|
-| ![Sales](Sales Dashboard.png) | ![Customer](screenshots/customer_dashboard.png) |
+
+![Sales Dashboard](https://raw.githubusercontent.com/kavishsarse/Sales-Customer-Dashboard-Tableau/82df1635cebb40e2f46126ee9c848aeece3f94db/Sales%20Dashboard.png)
+![Customer]
