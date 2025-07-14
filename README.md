@@ -22,7 +22,6 @@ This Tableau project visualizes and analyzes sales, profit, and customer behavio
 
 ## Tech Stack
 - **Tool**: Tableau Desktop
-- **Data Source**: Superstore dataset (Sample - Modified for Project Scope)
 - **Skills Applied**: KPI Tracking, Dashboard Design, Filter Logic, Customer Segmentation, Trend Analysis
 
 ## Business Insights Derived
